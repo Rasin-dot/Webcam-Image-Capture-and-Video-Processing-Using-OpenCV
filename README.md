@@ -64,7 +64,7 @@ if ret:
 cap.release()
 ```
 
-<img width="660" height="517" alt="image" src="https://github.com/user-attachments/assets/9ccc9221-2eb1-4a0b-94cd-d5c7c18aac4e" />
+<img width="571" height="450" alt="image" src="https://github.com/user-attachments/assets/cc56c7b4-77fb-4c38-878e-6a54a5a251de" />
 
 
 ### ii) Display the video
@@ -95,7 +95,7 @@ for i in range(50):
 cap.release()
 
 ```
-<img width="647" height="485" alt="image" src="https://github.com/user-attachments/assets/1159ff06-5f5d-407d-a758-53448eda95be" />
+<img width="592" height="437" alt="image" src="https://github.com/user-attachments/assets/f36aba64-71de-4821-b133-7695822ee82d" />
 
 
 ### iii) Display the video by resizing the window
@@ -129,7 +129,7 @@ for i in range(50):
 
 cap.release()
 ```
-<img width="328" height="482" alt="image" src="https://github.com/user-attachments/assets/17a7da60-ddc7-4b4c-83e7-aacb9ae9a604" />
+<img width="282" height="417" alt="image" src="https://github.com/user-attachments/assets/e3ecbcc1-fa90-4d51-bec0-aa89f4ca74b8" />
 
 
 
@@ -166,7 +166,7 @@ cap.release()
 ```
 
 
-<img width="371" height="481" alt="image" src="https://github.com/user-attachments/assets/5d1ff093-2a6e-4083-b79a-5a4b8084228b" />
+<img width="336" height="431" alt="image" src="https://github.com/user-attachments/assets/089e60af-83bf-46fa-9c4e-b722e98b7281" />
 
 
 
